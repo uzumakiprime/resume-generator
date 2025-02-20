@@ -1,7 +1,7 @@
 # Resume generator
 Web based editor to create Resume in a customizable template  
   
-Try it : https://nitish6174.github.io/resume-generator/  
+Try it : https://uzumakiprime.github.io/resume-generator/ 
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
@@ -25,3 +25,4 @@ Try it : https://nitish6174.github.io/resume-generator/
 - Note: As this creates a new PDF file, you may have to see permission settings or run with sudo on terminal.
 
 **Note** : Use Google Chrome
+Special thanks to the creator @nitish6174
